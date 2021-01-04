@@ -8,15 +8,15 @@
     "announce_to_chat": false,
     "description": [
       {
-        "text": "The otherhalf of econ"
+        "text": "Econ Brought to you by Loungecraft"
       }
     ],
     "icon": {
       "item": "minecraft:player_head",
-      "nbt": "{SkullOwner: \"ACrazyD\"}"
+      "nbt": "{SkullOwner: \"Natrogltor\"}"
     },
     "show_toast": false,
-    "title": "ACrazyD"
+    "title": "Natrogltor"
   },
   "parent": "global:root"
 }
