@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "123",
+        " 45"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:beacon"
+        },
+        "2": {
+            "item": "create:handheld_blockzapper"
+        },
+        "3": {
+            "item": "expandedstorage:netherite_chest"
+        },
+        "4": {
+            "item": "create:shadow_steel"
+        },
+        "5": {
+            "item": "mining_dimension:teleporter"
+        }
+    },
+    "result": {
+        "item": "mininggadgets:mininggadget",
+        "count": 1
+    }
+}
