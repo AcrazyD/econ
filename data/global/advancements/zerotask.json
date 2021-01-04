@@ -8,15 +8,15 @@
     "announce_to_chat": false,
     "description": [
       {
-        "text": "Creator of vanilla-friendly datapacks.\n"
+        "text": "The otherhalf of econ"
       }
     ],
     "icon": {
       "item": "minecraft:player_head",
-      "nbt": "{SkullOwner: \"SirWindfield\"}"
+      "nbt": "{SkullOwner: \"ACrazyD\"}"
     },
     "show_toast": false,
-    "title": "SirWindfield"
+    "title": "ACrazyD"
   },
   "parent": "global:root"
 }
