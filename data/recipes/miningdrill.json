@@ -1,32 +1,29 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "666",
-      "123",
-      "645"
-    ],
-    "key": {
-      "1": {
-        "item": "minecraft:beacon"
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "   ",
+      "#CE",
+      " XM"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:beacon"
       },
-      "2": {
-        "item": "create:handheld_blockzapper"
+      "C": {
+          "item": "create:handheld_blockzapper"
       },
-      "3": {
-        "item": "expandedstorage:netherite_chest"
+      "E": {
+          "item": "expandedstorage:netherite_chest"
       },
-      "4": {
-        "item": "create:shadow_steel"
+      "X": {
+          "item": "create:shadow_steel"
       },
-      "5": {
-        "item": "mining_dimension:teleporter"
-      },
-      "6": {
-        "item": "minecraft:air"
+      "M": {
+          "item": "mining_dimension:teleporter"
       }
-    },
-    "result": {
+  },
+  "result": {
       "item": "mininggadgets:mininggadget",
       "count": 1
-    }
   }
+}
