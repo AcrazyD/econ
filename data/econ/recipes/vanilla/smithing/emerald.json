@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/emerald"
+    },
+    "result": {
+        "item": "gemsnjewels:emerald_set_gold_ring"
+    }
+}

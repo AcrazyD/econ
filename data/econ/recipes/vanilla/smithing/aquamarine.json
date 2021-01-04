@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/aquamarine"
+    },
+    "result": {
+        "item": "gemsnjewels:aquamarine_set_gold_ring"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/ametrine"
+    },
+    "result": {
+        "item": "gemsnjewels:ametrine_set_gold_ring"
+    }
+}

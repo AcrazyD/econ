@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": [
+      {
+        "text": "Econ Brought to you by Loungecraft"
+      }
+    ],
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: \"Natrogltor\"}"
+    },
+    "show_toast": false,
+    "title": "Natrogltor"
+  },
+  "parent": "global:root"
+}

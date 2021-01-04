@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/opal"
+    },
+    "result": {
+        "item": "gemsnjewels:opal_set_gold_ring"
+    }
+}

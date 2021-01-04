@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/zircon"
+    },
+    "result": {
+        "item": "gemsnjewels:zircon_set_gold_ring"
+    }
+}
