@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/peridot"
+    },
+    "result": {
+        "item": "gemsnjewels:peridot_set_gold_ring"
+    }
+}

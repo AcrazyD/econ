@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "curios:ring"
+    },
+    "addition": {
+        "tag": "forge:gems/alexandrite"
+    },
+    "result": {
+        "item": "gemsnjewels:alexandrite_set_gold_ring"
+    }
+}

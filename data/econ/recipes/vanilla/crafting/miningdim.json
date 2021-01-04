@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "igd",
+        "lpr",
+        "zec"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_block"
+        },
+        "g": {
+            "item": "minecraft:gold_block"
+        },
+        "d": {
+            "item": "minecraft:diamond_block"
+        },
+        "l": {
+            "item": "minecraft:lapis_block"
+        },
+        "p": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "r": {
+            "item": "minecraft:redstone_block"
+        },
+        "z": {
+            "item": "create:zinc_block"
+        },
+        "e": {
+            "item": "minecraft:ender_pearl"
+        },
+        "c": {
+            "item": "create:copper_block"
+		}
+    },
+    "result": {
+        "item": "mining_dimension:teleporter",
+        "count": 1
+    }
+}
